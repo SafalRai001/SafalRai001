@@ -2,7 +2,8 @@
 - 👀 I’m interested in Learning new things, coding, and playing football.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : facebook account: Safal Rai
+- 📫 How to reach me :
+-                       facebook account: Safal Rai
 -                       instagram: @Safaldesu
 -                       Whatsapp: +9826342326
 - 😄 Pronouns: 
